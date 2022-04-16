@@ -1,5 +1,5 @@
 ## Script for integrating single cell data in Seurat v4
-## CD3+ sorted T population as well as Lin-HLADR+ population from various tissues
+## T cell data from Erickson, et al, PNAS 2022 https://doi.org/10.1073/pnas.2117031119
 ## JRE, 2020-01-28
 
 ## Load required packages, including MAST
